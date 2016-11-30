@@ -2,6 +2,7 @@
 Playing Street Fighter with DQN
 
 Quick Start
+
 1. install Theano
 2. install Lasagne
 3. run "python simple_learning.py"
